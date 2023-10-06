@@ -1,5 +1,5 @@
 <?php
-//2- tomar dos funciones de PHP de la pagina
+//1- tomar dos funciones de PHP de la pagina
 //metodo implode obtiene los elementos de un array en un string
 echo "2-tomar dos funciones de PHP de la pagina";
 echo "<br>";
@@ -15,7 +15,7 @@ echo 'La cadena "'. $str. '" tiene '. $NumeroLetras. ' letras';
 echo "<br>";
 echo "<br>";
 
-//3- Juego del baloto (del 1 al 43) y una superbola del 1 al 16
+//2- Juego del baloto (del 1 al 43) y una superbola del 1 al 16
 echo "3- Juego del baloto (del 1 al 43) y una superbola del 1 al 16";
 echo "<br>";
 echo "Juego del baloto \n";
@@ -24,7 +24,7 @@ echo "Numeros ganadores\n";
 echo "<br>";
 echo "<br>";
 
-//4- solucionar lo de la zona horaria
+//3- solucionar lo de la zona horaria
 echo "4- solucionar lo de la zona horaria";
 echo "<br>";
 date_default_timezone_set("America/Bogota");
